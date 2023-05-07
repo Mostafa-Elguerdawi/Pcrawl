@@ -19,3 +19,10 @@ options:
 - -f : for input file(endpoints file)
 - -o : for output file(file contain tool result)
 - -t : for control threading (defult is 1)
+
+## install ##
+
+- git clone https://github.com/Mostafa-Elguerdawi/Pcrawl
+- cd Pcrawl
+- pip3 install requirements.txt OR sudo xargs -a requirements.txt sudo apt-get install -y
+- python3 Param.py -f endpoints.txt -o result.txt -t 2
