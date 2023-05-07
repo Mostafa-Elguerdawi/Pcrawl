@@ -23,6 +23,6 @@ options:
 ## install ##
 
 - git clone https://github.com/Mostafa-Elguerdawi/Pcrawl
-- cd Pcrawl
+- cd Pcrawl/Pcrawl
 - pip3 install requirements.txt OR sudo xargs -a requirements.txt sudo apt-get install -y
 - python3 Param.py -f endpoints.txt -o result.txt -t 2
