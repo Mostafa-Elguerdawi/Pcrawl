@@ -16,6 +16,6 @@ options:
   -t THREADS, --threads THREADS
                         Number of threads to use for crawling URLs
                        
--f : for input file(endpoints file)
--o : for output file(file contain tool result)
--t : for control threading (defult is 1)
+- -f : for input file(endpoints file)
+- -o : for output file(file contain tool result)
+- -t : for control threading (defult is 1)
